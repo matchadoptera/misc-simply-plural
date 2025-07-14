@@ -1,0 +1,18 @@
+## Name's Personnel File
+
+---
+
+>> THE CONTENT OF THIS DOSSIER IS RESTRICTED TO [>>LEVEL 2<<]() PERSONNEL AND ABOVE.
+
+![](link#150x150)⠀⠀⠀⠀⠀**Name:** Lorem Ipsim
+⠀⠀⠀⠀⠀**Security Clearence:** 2
+⠀⠀⠀⠀⠀**Duties:** Role, role
+
+---
+
+**Profile:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada maximus nunc, eu fringilla urna sollicitudin in. Nam non odio non velit facilisis rutrum at eu nulla. Phasellus vulputate et metus a eleifend. Vestibulum tempus auctor neque, in aliquam tellus tempor non.
+**History:** Formation date, role info, birthday, age, etc 
+
+---
+
+**Addendum 1:** Lorem ipsum dolor sit amet...
