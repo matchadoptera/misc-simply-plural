@@ -16,3 +16,6 @@
 ---
 
 **Addendum 1:** Lorem ipsum dolor sit amet...
+
+
+NOTE: Redaction character we used is █
